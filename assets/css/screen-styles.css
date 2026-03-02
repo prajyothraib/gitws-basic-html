@@ -454,3 +454,17 @@ nav#footer-nav ul li {
 	.col11 { width: 91.452%; } /* 1070px/1170px */
 	.col12 { width: 100%; margin: 0; }
 }
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+body.dark-mode a {
+    color: #4da6ff;
+}
+
+#darkModeToggle {
+    padding: 8px 15px;
+    cursor: pointer;
+    margin-top: 10px;
+}
